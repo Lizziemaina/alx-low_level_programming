@@ -2,7 +2,7 @@
 
 /**
  * Main - prints the alphabet
- *
+ * Description: program that prints alphabets
  * Return: Always (Success)
  */
 
