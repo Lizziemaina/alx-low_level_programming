@@ -5,9 +5,7 @@
  * Description: program that prints alphabets
  * Return: Always (Success)
  */
-
 int main(void)
-
 {
 	char c;
 
