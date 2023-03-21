@@ -4,7 +4,7 @@
  * description - prints _putchar to stdout
  * return - Always 0 (Success)
  */
-int _putchar(char)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
